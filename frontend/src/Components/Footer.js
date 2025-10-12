@@ -31,7 +31,7 @@ function Footer() {
                         <h1>Librarian</h1>
                         <p>Name</p>
                         <p>Education</p>
-                        <p>Contact: +91 8102384013</p>
+                        <p>Contact: +91 7654803996</p>
                     </div>
                 </div>
                 <div className="contact-social" >
@@ -42,7 +42,7 @@ function Footer() {
                 </div>
             </div>
             <div className='copyright-details'>
-                <p className='footer-copyright'>&#169; 2020 copyright all right reserved<br /><span>Designed with ❤️ by Bittu Deo </span></p>
+                <p className='footer-copyright'>&#169; 2020 copyright all right reserved<br /><span>Designed with ❤️ by Bittu Kumar </span></p>
             </div>
         </div>
     )
